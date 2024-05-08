@@ -1,0 +1,1 @@
+This project is to solidify my understanding of HTML.
