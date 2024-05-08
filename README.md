@@ -1,1 +1,1 @@
-This project is to solidify my understanding of HTML.
+This project is to solidify my understanding of HTML. Yay!
